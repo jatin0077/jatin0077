@@ -38,6 +38,8 @@
 
 <p><a href="https://ko-fi.com/jatincodes"> <img  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatincodes" /></a></p>
 
+# Profile Stats
+
 <h4 align="center"> 
 <p >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jatin0077&show_icons=true&locale=en" alt="jatin0077" /></p>
 
@@ -48,6 +50,5 @@
 
 ## Thank You for reading the profile.
 
-# Profile Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin0077&label=Profile%20views&color=0e75b6&style=flat" alt="jatin0077" /> </p>
