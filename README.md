@@ -36,13 +36,14 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://ko-fi.com/jatincodes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatincodes" /></a></p><br><br>
+<p><a href="https://ko-fi.com/jatincodes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatincodes" /></a></p>
+<br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin0077&show_icons=true&locale=en&layout=compact" alt="jatin0077" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin0077&show_icons=true&locale=en&layout=compact" alt="jatin0077" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin0077&show_icons=true&locale=en" alt="jatin0077" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jatin0077&show_icons=true&locale=en" alt="jatin0077" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin0077&" alt="jatin0077" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jatin0077&" alt="jatin0077" /></p>
 
 ## Thank You for reading the profile.
 
