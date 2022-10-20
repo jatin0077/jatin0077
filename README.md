@@ -40,7 +40,7 @@
 
 <p><a href="https://ko-fi.com/jatincodes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatincodes" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin0077&show_icons=true&locale=en&layout=compact" alt="jatin0077" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin0077&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin0077&show_icons=true&locale=en" alt="jatin0077" /></p>
 
