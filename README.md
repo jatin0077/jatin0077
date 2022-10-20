@@ -36,7 +36,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://ko-fi.com/jatincodes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatincodes" /></a></p>
+<p><a href="https://ko-fi.com/jatincodes"> <img  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatincodes" /></a></p>
 
 <h4 align="center"> 
 <p >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jatin0077&show_icons=true&locale=en" alt="jatin0077" /></p>
@@ -45,6 +45,7 @@
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin0077&show_icons=true&locale=en&layout=compact" alt="jatin0077" /></p>
 
 </h4>
+
 ## Thank You for reading the profile.
 
 # Profile Stats
