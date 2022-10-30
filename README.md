@@ -18,7 +18,7 @@
 </p>
 <p align="left"> <a href="https://twitter.com/beast_jatin7" target="blank"><img src="https://img.shields.io/twitter/follow/beast_jatin7?logo=twitter&style=for-the-badge" alt="beast_jatin7" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual Assistant for PC's**
+<!-- - 🔭 I’m currently working on **Virtual Assistant for PC's**
 
 - 🌱 I’m currently learning **Data science & Machine Learning**
 
@@ -26,8 +26,19 @@
 
 - 📫 How to reach me **jatinsachdeva98755@gmail.com**
 
-- ⚡ Fun fact **I think I am dank**
-
+- ⚡ Fun fact **I think I am dank** -->
+<h3 align="left">About Me</h3>
+<ul>
+<li>🔭 I’m currently working on <strong>Virtual Assistant for PC's</strong></li>
+<li>🌱 I’m currently learning <strong>Data science & Machine Learning</strong></li>
+<li>💬 Ask me about <strong>Python , Ruby , Linux</strong></li>
+<li>📫 How to reach me <strong>
+<a href="mailto:jatinsachdeva98755@gmail.com" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</strong></li>
+<li>⚡ Fun fact <strong>I think I am dank</strong></li>
+</ul>
 <h3 align="left">My Socials</h3>
 <p align="left">
 <a href="https://twitter.com/beast_jatin7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beast_jatin7" height="30" width="40" /></a>
@@ -87,10 +98,16 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=jatin0077&theme=react-dark" alt="jatin0077" />
   </p>
 </details>
-
+<details>
+  <summary>Made with ❤️ by Jatin</summary>
+  <br>
+  <p align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="jatin0077" />
+  </p>
+</details>
 </h4>
 
 ## Thank You for reading the profile.
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin0077&label=Profile%20views&color=0e75b6&style=flat" alt="jatin0077" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatin0077&label=Profile%20views&color=0e75b6&style=flat" alt="jatin0077" />
+</div>
