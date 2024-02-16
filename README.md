@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist</h3>
 #client.repo.insertmypullrequest
 <h3 align="center">
-<img alt="Coding" width="450"  src="https://giphy.com/gifs/web-shittyreactiongifs-4FQMuOKR6zQRO" style="max-width:100%;">
+<img alt="Coding" width="450"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&psig=AOvVaw0XGf93mV6ofc4ND4v7Qg9f&ust=1708157246828000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC70OGzr4QDFQAAAAAdAAAAABAE">
 </h3>
 <!-- my activity -->
 <h3 align="left">My Activity</h3>
